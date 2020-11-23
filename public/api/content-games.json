@@ -1,0 +1,17 @@
+[
+    {
+        "30seconds": {
+            "title": "30 seconds",
+            "short-desc": "Probeert binnen 30 seconden zoveel mogelijk van de 5 begrippen op een kaartje te omschrijven!",
+            "long-desc": ""
+        }
+    },
+
+    {
+        "carcassone": {
+            "title": "Carcassone",
+            "short-desc": "Zet je spelers slim in en word steeds rijker en machtiger!",
+            "long-desc": ""
+        }
+    }
+]

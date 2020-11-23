@@ -1,0 +1,36 @@
+body{
+   margin: 0;
+    padding: 0;
+}
+
+.help-banner{
+    background-image: url("/images/komtueruit.png");
+}
+
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.flex-item{
+   font-size: 110%;
+}
+
+footer p{
+    color: white;
+    margin: 0;
+    padding: 0.5vw;
+}
+
+.games-sidebar{
+    font-size: 160%;
+
+}
+
+.games{
+    height: 100%;
+}
